@@ -7,5 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://leetcode-badge-sage.vercel.app/badge/sahilambre?theme=dark"></img>
+  <img src="https://leetcode.card.workers.dev/sahilambre?theme=dark&font=source_code_pro&extension=null"></img>
+  <!-- <img src="https://leetcode-badge-sage.vercel.app/badge/sahilambre?theme=dark"></img> -->
 </div>
+
