@@ -1,5 +1,5 @@
 class Solution:
-    def runningSum(self, nums: List[int]) -> List[int]:
+    def runningSum(nums):
         runningSum = []
         total = 0
         for i in range(len(nums)):
